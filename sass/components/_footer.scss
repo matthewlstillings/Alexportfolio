@@ -1,0 +1,18 @@
+.footer {
+    background: $primary;
+    padding: 2rem 2.31rem 2.62rem;
+    width: 100%;
+}
+
+.social-media__link {
+    color: $secondary;
+}
+
+.social-media__container > * {
+    margin: .25rem auto;
+}
+
+.social-media__container {
+    margin: auto;
+    max-width: 985px;
+}

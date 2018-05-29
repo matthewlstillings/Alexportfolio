@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "",
+  "main": "./js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "dependencies": {
+    "node-sass": "^4.9.0",
+    "yarn": "^1.7.0"
+  }
+}

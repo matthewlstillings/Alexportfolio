@@ -1,0 +1,28 @@
+* {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: $secondary;
+    color: $primary;
+}
+
+ul {
+ list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: $secondary
+}
+
+h2 {
+    font-size: 1.61rem;
+    margin: 0;
+}
+
+p {
+    font-size: 1.0625rem;
+    margin: .3rem 0; 
+}
