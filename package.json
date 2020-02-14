@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "node-sass": "^4.9.0",
-    "yarn": "^1.7.0"
+    "yarn": "^1.22.0"
   }
 }
